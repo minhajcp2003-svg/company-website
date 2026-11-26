@@ -11,7 +11,7 @@ pipeline {
         // DockerHub Configuration
         DOCKERHUB_USERNAME = 'minhajcp2003'
         DOCKERHUB_REPOSITORY = 'company-website'
-        DOCKERHUB_CREDENTIAL_ID = 'dockerhub-credentials'
+        DOCKERHUB_CREDENTIAL_ID = 'dockerhub'
 
         // Deployment Server
         DEPLOYMENT_SERVER_IP = '3.6.87.72'
